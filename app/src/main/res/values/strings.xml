@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="recent_searches">Recent searches</string>
+    <string name="delete_search_history_button">delete_search_history_button</string>
+    <string name="navigation_button">navigation button</string>
+    <string name="search_button">search button</string>
+    <string name="search_topic">Search topic</string>
+    <string name="search_history_item_image">search_history_item_image</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="read_more_about_topic">Read more about topic</string>
+    <string name="total_read_articles_0">Total number of read articles: 0</string>
+    <string name="no_categories_found">No categories found!</string>
+    <string name="read_article">Read article</string>
+    <string name="browse_articles">Browse articles</string>
+    <string name="no_articles_found">No articles found!</string>
+    <string name="read_more">Read more…</string>
+    <string name="open_in_web">Open in web</string>
+    <string name="article_date_placeholder">August 25, 2021</string>
+    <string name="article_title_placeholder">BreachQuest emerges from stealth with $4.4M to modernize incident response</string>
+    <string name="article_author_source_placeholder">By Carly Page, Source: TechCrunch</string>
+    <string name="article_description_placeholder">The startup\'s founding team is made up of former NSA, Department of Defense, and U.S. Cyber Command employees.</string>
+    <string name="article_image_placeholder">Article image placeholder</string>
+    <string name="articles">Articles</string>
+    <string name="browse">Browse</string>
+    <string name="history">History</string>
+    <string name="newsapp">NewsApp</string>
+    <string name="history_is_empty">History is empty!</string>
+    <string name="go_back">Go back</string>
+    <string name="delete_history">Delete history</string>
+    <string name="article_image">Article image</string>
+</resources>
